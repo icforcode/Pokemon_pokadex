@@ -1,16 +1,1 @@
-# pokadex
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pokemon catalog created with pokadex.api<br/><br/><br/>-Vertically Screenshots<br/><br/><br/><br/>![Screenshot_1664552709](https://user-images.githubusercontent.com/48881290/193308316-f553dbe2-ea37-41c0-a6cf-0907ae813dcf.png)<br/><br/><br/><br/><br/><br/><br/><br/>![Screenshot_1664552718](https://user-images.githubusercontent.com/48881290/193308327-2d4138c7-40a7-4473-a3ff-08dcb75ab9b6.png)<br/><br/><br/><br/><br/><br/><br/><br/>-Horizontly Screenshots<br/><br/><br/><br/>![Screenshot_1664552731](https://user-images.githubusercontent.com/48881290/193308329-ab2eb56c-bee1-4238-ae3d-d2e8d6f941da.png)<br/><br/><br/><br/><br/><br/><br/><br/>![Screenshot_1664552745](https://user-images.githubusercontent.com/48881290/193308337-30ed04e5-5b29-4eba-be54-2fdc6daf4ce4.png)
